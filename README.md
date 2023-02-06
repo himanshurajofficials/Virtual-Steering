@@ -5,7 +5,11 @@ This is a virtual steering using hand gesture project . In this project we use t
 # Technologies Used
 
 OpenCV
+
 Computer Vision
+
 Python
+
 Video Processing
+
 PyCharm
